@@ -1,0 +1,23 @@
+# Task Management
+
+- [/] Researching project structure and identifying missing files
+	- [x] List files in `com.example.myapplication`
+	- [x] List files in `res`
+	- [x] Read existing theme files
+	- [x] Check for `R.font.inter`
+- [ ] Create missing resource files
+	- [ ] Create `res/font/inter.xml` (or placeholder)
+	- [ ] Create `res/values/preloaded_fonts.xml` if needed
+- [ ] Apply provided code to the project
+	- [ ] Update `MainActivity.kt`
+	- [ ] Create/Update `ProfileScreen.kt`
+	- [ ] Update `ui/theme/Color.kt`
+	- [ ] Update `ui/theme/Theme.kt`
+	- [ ] Update `ui/theme/Type.kt`
+- [ ] Build and Run the project
+	- [ ] Run Gradle Sync
+	- [ ] Build the app
+	- [ ] Deploy to device
+- [ ] Verify functionality
+	- [ ] Check theme toggle
+	- [ ] Verify UI layout
